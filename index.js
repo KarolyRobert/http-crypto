@@ -5,3 +5,5 @@ class Http_crypto {
     console.log("Http_crypto created");
   }
 }
+
+export default Http_crypto;
